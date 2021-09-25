@@ -1,2 +1,2 @@
-# KernelSelection
+# Kernel Learning
 This repository contains a survey for kernel learning problem, which introduces the basic problem formulation, mainly associated with semi-definite programming, and discusses its variants. We then summarize the generalization bound in terms of Rademacher complexity. Finally, we do simulation on small training set, and observe that it does not perform as well as in prior works where datasets are large.
